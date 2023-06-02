@@ -1,0 +1,30 @@
+/* Multiples Selectors */
+
+h1,
+h2 {
+    color: blueviolet;
+}
+
+/* Parent > Child: only one level */
+
+.box > p {
+    color: firebrick;
+}
+
+/* Ascendant Descendant */
+
+.box li {
+    color: blue;
+}
+
+/* Chaining: aplly where all selectors are true */
+
+li.done {
+    color: green;
+}
+
+/* Combining Combiners */
+
+ul p.done {
+    font-size: 0.5rem;
+}
