@@ -1,7 +1,7 @@
 .container {
     display: grid;
     width: 748px;
-    height: 748px;
+    height: 746px;
     gap: 9px;
     background-color: #000;
     grid-template-columns: 320px 198px 153px 50px;
@@ -30,6 +30,7 @@
 
 .box-5 {
     background-color: #004592;
+    border-bottom: 10px solid #000;
 }
 
 .box-6 {
