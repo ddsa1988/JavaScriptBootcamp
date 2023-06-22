@@ -31,16 +31,3 @@
 .sponsors {
     height: 30px;
 }
-
-#testimonial {
-    background-color: whitesmoke;
-    text-align: center;
-    padding: 5rem;
-}
-
-.dog-testiomonial {
-    flex: 1;
-    text-align: center;
-    margin-top: 5rem;
-    margin-bottom: 3rem;
-}
