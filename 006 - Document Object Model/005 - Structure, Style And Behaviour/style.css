@@ -1,0 +1,13 @@
+.yellow {
+    background-color: yellow;
+}
+
+.border {
+    border-style: dashed;
+}
+
+.huge {
+    font-size: 10rem;
+    color: red;
+    font-weight: bold;
+}
